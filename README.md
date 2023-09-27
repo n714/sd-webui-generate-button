@@ -18,7 +18,7 @@ Additional Generate button alway with you.
   - 复制本 git 仓库网址：
 
 ```
-[ttps://github.com/n714/sd-webui-generate-button.git
+https://github.com/n714/sd-webui-generate-button.git
 ```
 
  
