@@ -4,7 +4,7 @@ Additional Generate button alway with you.
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/n714mc)
 
-![DEMO](imgs/demo.png)
+![DEMO](imgs/demo.jpg)
 
 
 ## Installation
